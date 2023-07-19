@@ -1,0 +1,2 @@
+#3 Setup Environment
+Để chuẩn bị cho việc theo dõi cũng như thực hành các bài giảng trong khóa học, thì việc cài đặt các công cụ cần thiết là điều cực kỳ quan trọng. Trong video này, chúng ta sẽ cùng nhau cài đặt Visual Studio Code và Google Chrome.

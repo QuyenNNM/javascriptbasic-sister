@@ -1,0 +1,3 @@
+#1 Tại Sao Bạn Nên Chọn Khóa Học Này
+Tạo sự trải nghiệm cho người dùng, làm cho người dùng cảm gicas mịn dễ dùng
+Javascript là một trong những ngôn ngữ lập trình phổ biến nhất và được ưu chuộng nhất hiện này. Trong video này, chúng ta sẽ cùng nhau tìm hiểu Javascript là gì, cũng như là đi tìm câu trả lời cho câu hỏi "Tại sao cá bạn nên chọn khóa học này"

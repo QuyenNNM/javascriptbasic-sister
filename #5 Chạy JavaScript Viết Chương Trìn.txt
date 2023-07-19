@@ -1,0 +1,4 @@
+#5 Chạy JavaScript Viết Chương Trình "Hello World"
+
+ide là trình để soạn thảo code
+code 2 cánh để nhúng javas vào, trên body và trong body
