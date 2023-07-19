@@ -2,3 +2,15 @@
 
 ide là trình để soạn thảo code
 code 2 cánh để nhúng javas vào, trên body và trong body
+
+alert('Hello Wolrd Form Html') xuất hiện thông báo khi load lại trnag
+ git init => tạo ra giit
+tạo responesive trên git
+paste in terminal "git remote add origin https://github.com/sister112/javascriptbasic-sister.git"
+git branch -M video1
+git add .
+git commit -m 'source code chapter 2, video1'
+git push origin video1
+
+
+-m chính là main
