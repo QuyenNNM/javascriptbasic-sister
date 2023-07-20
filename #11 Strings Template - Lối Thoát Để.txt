@@ -1,0 +1,3 @@
+#11 Strings Template - Lối Thoát Để Xử Lý Kiểu Strings 
+
+Với dữ liệu dạng chuỗi (text) hay còn gọi là Strings, việc phải nối chuỗi (dùng toán tử cộng + ) là một cơn ác mộng. Cứ hình dung việc các bạn phải nối chuỗi liên tiếp và chẳng may quên mất dấu đóng, mở ngoặc thì con như toang, code 100% chạy sai. Vậy chúng ta phải làm gì trong trường hợp này ?

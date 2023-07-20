@@ -1,1 +1,3 @@
 #10 A Bờ Cờ Numbers Trong Thế Giới Xi Đa
+
+Khác với các ngôn ngữ lập trình khác, Javascript chỉ có một và chỉ một kiểu dữ liệu cho số đấy chính là Numbers. Dù có dấu phẩy hay không, số thực hay số nguyên, số âm hay số dương... thì chúng đều thuộc kiểu Numbers. Ví dụ: 3.14 và 3 đều là Numbers, chứ 3.14 không phải là số thực (trong thế giới xi đa này).  
