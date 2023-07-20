@@ -1,1 +1,12 @@
 #6 Console - Bí Mật Câu Lệnh Mạnh Mẽ Nhất của JS
+
+Một công cụ đơn giản, dễ dùng và cực kì hiệu quả trong thế giới của javascript đấy chính là console.log. Với câu lệnh này, chúng ta có thể theo dõi luồng chạy dữ liệu cũng như biết được giá trị của các biến đang sử dụng.
+php => echo
+java => printf
+javascript => console.log()
+
+
+git add .
+git branch video2  
+git commit -m 'chapter 2, video 2'
+git push origin video2

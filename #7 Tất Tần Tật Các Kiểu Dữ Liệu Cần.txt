@@ -1,0 +1,15 @@
+#7 Tất Tần Tật Các Kiểu Dữ Liệu Cần Biết của JS 
+
+Tương tự như các ngôn ngữ lập trình khác, javascript cũng có rất nhiều kiểu dữ liệu, có thể kể đến như là Number, String, Object... Vậy câu hỏi đặt ra là nó khác các ngôn ngữ lập trình khác như thế nào ? Liệu chúng ta có cần học thuộc các kiểu dữ liệu của JS ?
+
+1. String
+2. Number
+3. Bigint
+4. Boolean
+5. Undefined
+6. Null
+7. Symbol
+8. Object
+
+backtick trong dấu backtick`` thì có cái gì thì nó in ra i rang cái đó
+typeof
