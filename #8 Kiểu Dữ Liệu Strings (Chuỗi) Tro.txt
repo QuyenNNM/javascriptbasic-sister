@@ -1,1 +1,2 @@
 #8 Kiểu Dữ Liệu Strings (Chuỗi) Trong Thế Giới Xi-Đa
+dùng dấu bactick thì ``````````

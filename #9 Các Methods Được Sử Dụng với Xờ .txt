@@ -1,0 +1,4 @@
+#9 Các Methods Được Sử Dụng với Xờ Trings (Strings)
+
+Chuỗi (Ký tự hay là Text - Strings) được xây dựng lên với rất nhiều hàm (methods) sử dụng sẵn. Tức là chúng ta có thể dùng các hàm này mà không cần khai báo, giúp cho việc sử dụng Strings trong JS dễ dàng và tiện lợi hơn bao giờ hết.
+
