@@ -1,0 +1,3 @@
+#12 Kiểu Dữ Liệu Object - Tiêu Chuẩn Để Giao Tiếp Data
+
+Object (đối tượng) là một trong những kiểu dữ liệu sử dụng nhiều nhất trong thế giới của javascript. Vậy object là gì, làm sao để sử dụng nó cũng như tại sao nó lại quan trọng... là một trong những câu hỏi những bạn mới bắt đầu thường đặt ra.
