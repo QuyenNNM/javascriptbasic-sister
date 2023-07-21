@@ -1,0 +1,6 @@
+#15 For Loops - Làm Quen Với Vòng Lặp For 
+
+Control Flow chính là luồng chảy của dữ liệu, và chúng ta sẽ cần quan tâm đến nó khi thực hiện vòng lặp hoặc thực hiện câu điều kiện. Trong video này, chúng ta sẽ làm quen với vòng lặp For trong javascript, cũng như làm sao để sử dụng vòng lặp này cho đúng cách.
+
+Chỉ nên sử dụng bien let trong vong lặp
+
