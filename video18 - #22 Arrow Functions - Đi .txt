@@ -1,0 +1,3 @@
+video18 - #22 Arrow Functions - Đi Săn Với JS
+
+Arrow Functions - (Hàm Mũi Tên) là một tính năng mới của Javascript từ phiên bản ES6 (phát hành 2015). Với arrow functions, việc viết code của chúng ta trở nên ngắn hơn, cũng như mang đến trải nghiệm cực khác so với việc viết function truyền thống.
